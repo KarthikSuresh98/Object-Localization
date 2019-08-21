@@ -1,9 +1,10 @@
 This project is based on Object localization. This is a task wherein we have to predict the bounding box co-ordinates of the object present in the image. The dataset used for this project was the Flipkart Grid Challenge dataset (A competition held by FlipKart)
 
 Dataset Description: 
-There were a total of 56,792 images in the dataset thus totalling to a size of about 14.2 GB of data. But in this task along with the images we were also provided with the csv files containing the names of the images in the training and testing set. The training set had 24000 images whereas the testing set had 24045 images in it. Our task is to build a model capable of predicting the bounding box co-ordinates of the testing set images accuractely. 
+   There were a total of 56,792 images in the dataset thus totalling to a size of about 14.2 GB of data. But in this task along with the images we were also provided with the csv files containing the names of the images in the training and testing set. The training set had 24000 images whereas the testing set had 24045 images in it. Our task is to build a model capable of predicting the bounding box co-ordinates of the testing set images accuractely. 
 
-Note: Since the dataset is big in size and due to some limitations , the dataset is not uploaded on git.   
+Note: 
+   Since the dataset is big in size and due to some limitations , the dataset is not uploaded on git.   
 
 
 Summary of the program files:
